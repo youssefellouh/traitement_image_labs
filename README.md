@@ -22,13 +22,13 @@ Each lab folder also contains a `resources/` directory with images and other fil
 1. Clone this repository to your local machine.
 
     ```sh
-    git clone https://github.com:youssefellouh/labs_traitemnt_images
+    git clone https://github.com/youssefellouh/traitement_image_labs.git
     ```
 
 2. Navigate to the project directory.
 
     ```sh
-    cd ./path/to/labs_traitemnt_images
+    cd traitement_image_labs
     ```
 
 3. Create and activate the virtual env:
